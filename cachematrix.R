@@ -1,7 +1,8 @@
 ## cachematrix.R
 ## Assignment #2
 ##
-## Tom Anderson
+## Author: Tom Anderson
+## Updated: 25 January 2015
 ##
 ## The function 'makeCacheMatrix' will create a special object which contains a matrix
 ## and its inverse.  This way if the matrix already has an inverse created, we do not
